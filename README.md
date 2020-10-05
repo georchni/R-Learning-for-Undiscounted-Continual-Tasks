@@ -5,6 +5,9 @@ experience into distinct episodes with finite returns. In this case one seeks to
 The algorithm could be considered as a variation (more like an of-policy SARSA) of the Q - learning and SARSA (State-Action-Reward-State-Action) algorithm 
 adapted to a 2 variable state dependent strategy. It can be used for motivation rather than for execution.  
 
+The file "RL algorithm.cpp"  contains the implementation dscribed and the file "Singh.cpp" contatins a variation of the prototype in terms of the Q-value matrix update. 
+The files "mersenne.cpp" and "randomc.h" are for a random number generator implementation.
+
 The discrete event simulation model of the production system is not given here due to shared copyrights.
 
 The research conducted as part of my engineering diploma thesis.
