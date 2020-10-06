@@ -1,4 +1,4 @@
-# R-Learning for Undiscounted Continual Tasks
+# Reinforcement Learning methods for Undiscounted Continual Tasks
 The following algorithm is a Reinforcement Learning implementation for optimization of the control policy on a production system. 
 "R-learning is an off-policy control method for the advanced version of the reinforcement learning problem in which one neither discounts nor divides 
 experience into distinct episodes with finite returns. In this case one seeks to obtain the maximum reward per-time-step" [1].
