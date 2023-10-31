@@ -2,7 +2,7 @@
 The following algorithm is a Reinforcement Learning implementation for optimization of the control policy on a production system. 
 "R-learning is an off-policy control method for the advanced version of the reinforcement learning problem in which one neither discounts nor divides 
 experience into distinct episodes with finite returns. In this case one seeks to obtain the maximum reward per-time-step" [1].
-The algorithm could be considered as a variation (more like an of-policy SARSA) of the Q - learning and SARSA (State-Action-Reward-State-Action) algorithm 
+The algorithm could be considered as a variation (more like an off-policy SARSA) of the Q - learning and SARSA (State-Action-Reward-State-Action) algorithm 
 adapted to a 2 variable state dependent strategy. It can be used for motivation rather than for execution.  
 
 The file "RL algorithm.cpp"  contains the implementation dscribed and the file "Singh.cpp" contatins a variation of the prototype in terms of the Q-value matrix update. 
